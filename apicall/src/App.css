@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  padding: 10px;
+  border: 1px solid red;
+}
+ul div {
+  display: flex;
+  gap: 18%;
+  background-color: aquamarine;
+}
+
+li {
+  display: flex;
+  gap: 34px;
+  border: 1px solid red;
+  background-color: aqua;
+}
+li span {
+  width: 50%;
+}
