@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}ul{border:1px solid red;flex-direction:column;gap:31px;list-style:none;padding:10px}ul,ul div{display:flex}ul div{background-color:#7fffd4;gap:18%}li{background-color:aqua;border:1px solid red;display:flex;gap:34px}li span{width:50%}
+/*# sourceMappingURL=main.2969f5a0.css.map*/

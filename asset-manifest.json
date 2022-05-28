@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apicalldemo/static/css/main.2969f5a0.css",
+    "main.js": "/apicalldemo/static/js/main.63d7df61.js",
+    "index.html": "/apicalldemo/index.html",
+    "main.2969f5a0.css.map": "/apicalldemo/static/css/main.2969f5a0.css.map",
+    "main.63d7df61.js.map": "/apicalldemo/static/js/main.63d7df61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2969f5a0.css",
+    "static/js/main.63d7df61.js"
+  ]
+}
